@@ -1,0 +1,18 @@
+{
+  "bindings": [
+    {
+      "name": "Timer",
+      "schedule": "0 * 3 * * *",
+      "direction": "in",
+      "type": "timerTrigger"
+    },
+    {
+      "name": "outSentMessagesTable",
+      "type": "table",
+      "tableName": "sentMessagesTable",
+      "connection": "AzureWebJobsStorage",
+      "direction": "out"
+    }
+  ],
+  "disabled": false
+}

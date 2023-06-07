@@ -1,0 +1,23 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_EXTENSION_VERSION": "~4",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=birdsboredstorageaccount;AccountKey=z38NnOOvr8btO+R6yHO9iI49P/kEfgGmrSTIZ+4T7G3N0+X0Ej4VmlQng1KqcXQ1UUcWOWW1Kam3+AStLZuSog==;EndpointSuffix=core.windows.net",
+    "WEBSITE_SITE_NAME": "HumbleBundleBot",
+    "FUNCTIONS_WORKER_RUNTIME": "powershell",
+    "WEBSITE_AUTH_AUTO_AAD": "False",
+    "WEBSITE_AUTH_ENABLED": "False",
+    "REMOTEDEBUGGINGVERSION": "16.0.32106.67",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=birdsboredstorageaccount;AccountKey=A5ODavNaYYmXY/si88ei0Zie81ic30b4z+pVb2L1dmxqZrnOoqajBLu36fOCrJQmfAjl2fa2OGKC+AStnhlq3w==;EndpointSuffix=core.windows.net",
+    "ScmType": "None",
+    "WEBSITE_CONTENTSHARE": "humblebundlebot918e",
+    "AzureWebJobs.ScheduledScraper.Disabled": "0",
+    "FUNCTIONS_RUNTIME_SCALE_MONITORING_ENABLED": "0",
+    "WEBSITE_AUTH_LOGOUT_PATH": "/.auth/logout",
+    "WEBSITE_SLOT_NAME": "Production",
+    "APPLICATIONINSIGHTS_CONNECTION_STRING": "InstrumentationKey=508be8c6-d536-4f0f-8580-20f2da8e070b;IngestionEndpoint=https://westus-0.in.applicationinsights.azure.com/;LiveEndpoint=https://westus.livediagnostics.monitor.azure.com/",
+    "WebJobAccountKey": "+qWI2GQVycVjr63oFXx6+gOhch5FT1sfxYEXKYDy/VFEIgw/o44tyiPSYhFbu4mWf17tU58DTvWf+AStxE7etA==",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "508be8c6-d536-4f0f-8580-20f2da8e070b",
+    "WebJobAccountName": "birdsboredstorageaccount"
+  }
+}
